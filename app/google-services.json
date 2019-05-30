@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "123671234166",
+    "firebase_url": "https://exmenuf1.firebaseio.com",
+    "project_id": "exmenuf1",
+    "storage_bucket": "exmenuf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123671234166:android:f0c1c0584af9df2a",
+        "android_client_info": {
+          "package_name": "com.example.examenuf1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123671234166-r98rf6re13g9400rnnj8gfu4bhd4r723.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.examenuf1",
+            "certificate_hash": "6f2eafaec2c6e9dc95f6201ad5fe51570be8767e"
+          }
+        },
+        {
+          "client_id": "123671234166-ini665les260cv2ncjke6jpipldn7395.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJrwnfAlr_miDn-_YJ26T70r2OtG-n1Mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123671234166-ini665les260cv2ncjke6jpipldn7395.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
